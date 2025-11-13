@@ -1,0 +1,10 @@
+{
+  "author": "techy-robot",
+  "authorUrl": "https://github.com/techy-robot/",
+  "description": "Captures all actions inside Obsidian to easily readable format and is customizable.",
+
+  "id": "audit-log",
+  "isDesktopOnly": false,
+  "name": "Audit Log",
+  "version": "0.0.0"
+}
